@@ -43,7 +43,7 @@ export default Vue.extend({
           if (this.persistedItem) {
               this.message = this.persistedItem;
           } else {
-              this.message = 'Since last incident.';
+              this.message = 'Since last boner.';
           }
       }
   },
